@@ -1,14 +1,1 @@
-[
-    {
-        "Title": "Buy Milk",
-        "Completed": false,
-        "CreatedAt": "2024-10-30T02:59:37.8411795+05:30",
-        "CompletedAt": "2024-10-30T03:00:51.7168772+05:30"
-    },
-    {
-        "Title": "Buy Bread",
-        "Completed": false,
-        "CreatedAt": "2024-10-30T02:59:37.8411795+05:30",
-        "CompletedAt": null
-    }
-]
+[]
