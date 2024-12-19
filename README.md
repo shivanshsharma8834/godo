@@ -1,4 +1,5 @@
-# GODO, a simple console todolist application written in Go
+# GODO
+### a simple console todolist application written in Go
 
 Available flags 
 
